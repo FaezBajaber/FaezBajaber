@@ -5,7 +5,7 @@
 
 <br />
 
-Hi, I'm Faez Bajaber, a Full Stack Developer 🚀 from Yemen, currently, I work as a Back end Developer for [Jisr](https://jisr.net) 🙍🏽‍♂️.
+Hi, I'm Faez Bajaber, a Full Stack Developer 🚀 from Yemen, currently, I work as a Back end Developer for [Jisr](https://jisr.net).
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
